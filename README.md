@@ -1,6 +1,6 @@
 # authtdd
 
-Para desenvolvimento do projeto foi necessário utilizar as seguintes biblitoecas: 
+Para desenvolvimento do projeto foi necessário utilizar as seguintes biblitotecas: 
 
 ### Bibliotecas
 
@@ -18,6 +18,9 @@ Para realização dos testes utilizado o Jest
 
 Para utilização de uma base para testes, utilizado o SQLite
 - npm install --save-dev sqlite3
+
+Para utilização de variaveis de ambiente
+- npm add dotenv
 
 Para testes de abstração HTTP
 - npm install --save-dev supertest
@@ -48,4 +51,3 @@ No arquivo package.json foi criado a seguinte estrutura em scripts para funciona
 
   ```
 
-  
