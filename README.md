@@ -11,10 +11,12 @@ Para conexão do banco de dados foi utilizado ORM para Mysql
 - npm install --save mysql2
 - npm install sequelize-cli --save-dev
 - npm install --save-dev nodemon
+- npx sequelize-cli init
 
 Para realização dos testes utilizado o Jest
 
 - npm install --save-dev jest
+- npx jest --init
 
 Para utilização de uma base para testes, utilizado o SQLite
 - npm install --save-dev sqlite3
