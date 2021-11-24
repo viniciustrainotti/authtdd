@@ -1,4 +1,4 @@
-# authtdd
+# node-tdd-auth-app
 
 Para desenvolvimento do projeto foi necessário utilizar as seguintes biblitotecas: 
 
