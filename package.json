@@ -1,5 +1,5 @@
 {
-  "name": "node-tdd-auth-app",
+  "name": "nodejs-tdd-auth-app",
   "version": "1.0.0",
   "description": "TDD Aplication",
   "main": "index.js",
